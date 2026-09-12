@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+output/
+ckpt_backup/
+training_results_*.txt
+training_error.txt
